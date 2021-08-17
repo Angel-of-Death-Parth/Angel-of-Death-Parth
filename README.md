@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### I am Parth Katoch, in Class 8th I, currently studying in Amity International School, sector-46, Gurugram
-- I am an intermediate programmer and an aspiring we developer. My skillset includes HTML, CSS, JavaScripta and basics of Python, C and C++
+- I am an intermediate programmer and an aspiring we developer. My skillset includes HTML, CSS, JavaScript and basics of Python, C and C++
 - My goal is to learn Dart, Type Script, PHP, EJS and SCSS
 - I am the current Headboy of Middle School Student Council of my school
 - I am also an active participant of different MUNs
